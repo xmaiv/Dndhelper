@@ -47,3 +47,31 @@ namespace BlockChain
 
         /// <summary>
         /// Конструктор генезис блока.
+        /// </summary>
+        public Block()
+        {
+            Id = 1;
+            Data = "Hello world";
+            Created = DateTime.Parse("03.04.2020 00:00:00.000").ToUniversalTime();
+            PreviousHash = "111111";
+            User = "Admin";
+            Hash = GetHash(GetData());
+        }
+        
+        /// <summary>
+        /// Конструктор блока.
+        /// </summary>
+        /// <param name="data">Данные блока.</param>
+        /// <param name="user">Имя пользователя.</param>
+        /// <param name="block">Предыдущий блок.</param>
+        public Block(string data, string user, Block block)
+        {
+            if (string.IsNullOrWhiteSpace(data))
+            {
+                throw new ArgumentNullException(nameof(data), "Данные не могут быть пустыми...");
+            }
+
+            if (string.IsNullOrWhiteSpace(user))
+            {
+                throw new ArgumentNullException(nameof(user), "Пользователь не может быть пустым...");
+            }
