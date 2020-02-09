@@ -104,3 +104,22 @@ namespace BlockChain
 
             return result;
         }
+
+        /// <summary>
+        /// Хэширование.
+        /// </summary>
+        /// <param name="data">Блок в виде строки.</param>
+        /// <returns>Хэш блока.</returns>
+        private string GetHash(string data)
+        {
+            var message = Encoding.ASCII.GetBytes(data);
+            SHA256Managed hash = new SHA256Managed();
+            var value = hash.ComputeHash(message);
+
+            var hex = "";
+            foreach (var x in value)
+            {
+                hex += string.Format("{0:x2}", x);
+            }
+
+            return hex;
