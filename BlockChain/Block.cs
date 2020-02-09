@@ -75,3 +75,32 @@ namespace BlockChain
             {
                 throw new ArgumentNullException(nameof(user), "Пользователь не может быть пустым...");
             }
+
+            if (block is null)
+            {
+                throw new ArgumentNullException(nameof(block), "Блок, не может быть пустым...");
+            }
+
+            Data = data;
+            User = user;
+            Hash = GetHash(GetData());
+            PreviousHash = block.Hash;
+            Created = DateTime.UtcNow;
+            Id = block.Id + 1;
+        }
+
+        /// <summary>
+        /// Получение данных блока.
+        /// </summary>
+        /// <returns>Блок в виде строки.</returns>
+        private string GetData()
+        {
+            var result = "";
+            //result += Id.ToString();
+            result += Data;
+            result += Created.ToString("dd.MM.yyyy HH:mm:ss.fff");
+            result += PreviousHash;
+            result += User;
+
+            return result;
+        }
