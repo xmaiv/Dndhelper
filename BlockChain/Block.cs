@@ -123,3 +123,24 @@ namespace BlockChain
             }
 
             return hex;
+        }
+
+
+        public override string ToString() => Data;
+
+        /// <summary>
+        /// Сериализация объекта Block из JSON строки.
+        /// </summary>
+        /// <returns>JSON строка.</returns>
+        public string Serialize()
+        {
+            DataContractJsonSerializer jsonSerializer = new DataContractJsonSerializer(typeof(Block));
+
+            using (var ms = new MemoryStream())
+            {
+                jsonSerializer.WriteObject(ms, this);
+                var result = Encoding.UTF8.GetString(ms.ToArray());
+
+                return result;
+            }
+        }
