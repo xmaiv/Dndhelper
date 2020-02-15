@@ -144,3 +144,22 @@ namespace BlockChain
                 return result;
             }
         }
+
+        /// <summary>
+        /// Десериализация JSON строки в объект Block.
+        /// </summary>
+        /// <param name="json">JSON строка.</param>
+        /// <returns>Объект Block.</returns>
+        public static Block Deserialize(string json)
+        {
+            DataContractJsonSerializer jsonSerializer = new DataContractJsonSerializer(typeof(Block));
+
+            using (var ms = new MemoryStream(Encoding.UTF8.GetBytes(json)))
+            {
+                var result = jsonSerializer.ReadObject(ms) as Block;
+
+                return result;
+            }            
+        }
+    }
+}
