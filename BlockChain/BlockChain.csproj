@@ -5,4 +5,5 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3F0A1591-152C-4FFE-9E36-0A1E0457E
+    <ProjectGuid>{3F0A1591-152C-4FFE-9E36-0A1E0457E650}</ProjectGuid>
+    <Outpu
