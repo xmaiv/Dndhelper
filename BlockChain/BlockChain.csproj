@@ -8,4 +8,4 @@
     <ProjectGuid>{3F0A1591-152C-4FFE-9E36-0A1E0457E650}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>BlockChain</RootNamespace>
-    <Assembl
+    <AssemblyName>BlockChain</Assembl
