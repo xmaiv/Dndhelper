@@ -9,4 +9,4 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>BlockChain</RootNamespace>
     <AssemblyName>BlockChain</AssemblyName>
-    <TargetFra
+    <TargetFrameworkVersion>v4.7</TargetFrame
