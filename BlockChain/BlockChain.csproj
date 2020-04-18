@@ -10,4 +10,4 @@
     <RootNamespace>BlockChain</RootNamespace>
     <AssemblyName>BlockChain</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
-    <FileA
+    <FileAlignment>512</FileAli
