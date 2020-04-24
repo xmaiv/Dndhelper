@@ -11,4 +11,5 @@
     <AssemblyName>BlockChain</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindi
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Determ
