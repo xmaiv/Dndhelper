@@ -13,4 +13,5 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <NuGetPackageImportStam
+    <NuGetPackageImportStamp>
+    </NuGetPackageImp
