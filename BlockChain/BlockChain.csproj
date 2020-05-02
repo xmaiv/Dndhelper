@@ -16,4 +16,4 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
-  <PropertyGroup Con
+  <PropertyGroup Condition=" '$(Configuration)|$
