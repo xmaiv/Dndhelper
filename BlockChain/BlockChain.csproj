@@ -16,4 +16,4 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'D
