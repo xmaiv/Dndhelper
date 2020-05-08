@@ -17,4 +17,4 @@
     </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <Platf
+    <PlatformTarget>AnyCPU</Platfor
