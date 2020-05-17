@@ -20,4 +20,5 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
-    <Optimize>false</Opt
+    <Optimize>false</Optimize>
+    <Output
