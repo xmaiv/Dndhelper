@@ -21,4 +21,5 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</Ou
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineCo
