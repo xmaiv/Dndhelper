@@ -25,4 +25,5 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </Prope
+  </PropertyGroup>
+  <Propert
