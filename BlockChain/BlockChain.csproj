@@ -26,4 +26,4 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <Propert
+  <PropertyGroup Condition=" '$(Configur
