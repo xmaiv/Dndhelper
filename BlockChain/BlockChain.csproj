@@ -26,4 +26,4 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)'
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCP
