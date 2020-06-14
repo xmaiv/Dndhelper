@@ -27,4 +27,5 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>Any
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <
