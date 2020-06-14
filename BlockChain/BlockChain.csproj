@@ -28,4 +28,5 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugType>pdbonly</Debug
+    <DebugType>pdbonly</DebugType>
+    <Optimize
