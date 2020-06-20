@@ -31,4 +31,5 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE</DefineConstant
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorRepo
