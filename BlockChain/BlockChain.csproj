@@ -32,4 +32,4 @@
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
-    <ErrorRepo
+    <ErrorReport>prompt</ErrorReport
