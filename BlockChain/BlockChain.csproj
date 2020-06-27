@@ -33,4 +33,5 @@
     <OutputPath>bin\Release\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</War
+    <WarningLevel>4</WarningLevel>
+  </Propert
