@@ -36,4 +36,4 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Includ
+    <Reference Include="EntityFramework, V
