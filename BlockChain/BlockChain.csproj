@@ -36,4 +36,4 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework, V
+    <Reference Include="EntityFramework, Version=6.0.0.0, Cult
