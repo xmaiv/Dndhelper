@@ -43,4 +43,4 @@
       <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.
+    <Reference Include="System.ComponentModel.DataAnnota
