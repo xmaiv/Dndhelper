@@ -45,4 +45,5 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Serial
+    <Reference Include="System.Runtime.Serialization" />
+    <Referenc
