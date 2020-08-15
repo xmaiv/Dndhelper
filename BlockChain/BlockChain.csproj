@@ -47,4 +47,4 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="Sy
+    <Reference Include="System.Data.DataSetEx
