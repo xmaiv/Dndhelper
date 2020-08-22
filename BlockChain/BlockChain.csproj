@@ -48,4 +48,5 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsof
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Inclu
