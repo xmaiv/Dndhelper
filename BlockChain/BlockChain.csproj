@@ -57,4 +57,5 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile In
+    <Compile Include="Block.cs" />
+ 
