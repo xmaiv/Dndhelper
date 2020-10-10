@@ -58,4 +58,4 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Block.cs" />
-    <Compile Include="Bl
+    <Compile Include="BlockchainContext.cs"
