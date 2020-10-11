@@ -59,4 +59,5 @@
   <ItemGroup>
     <Compile Include="Block.cs" />
     <Compile Include="BlockchainContext.cs" />
-    <Compile Incl
+    <Compile Include="Chain.cs" />
+    <Comp
