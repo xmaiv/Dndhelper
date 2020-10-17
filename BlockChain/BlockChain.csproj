@@ -60,4 +60,5 @@
     <Compile Include="Block.cs" />
     <Compile Include="BlockchainContext.cs" />
     <Compile Include="Chain.cs" />
-    <Compile Include="Form1
+    <Compile Include="Form1.cs">
+      <SubT
