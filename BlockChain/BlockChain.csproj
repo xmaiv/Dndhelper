@@ -67,4 +67,4 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
-    <Compile Include="Propertie
+    <Compile Include="Properties\AssemblyInfo.cs" /
