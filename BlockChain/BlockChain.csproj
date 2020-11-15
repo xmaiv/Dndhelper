@@ -73,4 +73,4 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.De
+      <LastGenOutput>Resources.Designer.cs</LastGenOutp
