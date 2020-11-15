@@ -72,4 +72,4 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFil
+      <Generator>ResXFileCodeGenerator</Gen
