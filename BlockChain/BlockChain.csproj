@@ -72,4 +72,5 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Gen
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOut
