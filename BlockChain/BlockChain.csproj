@@ -76,4 +76,4 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.De
+    <Compile Include="Properties\Resources.Designer.cs">
