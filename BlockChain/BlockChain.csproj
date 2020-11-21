@@ -75,4 +75,5 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
-    </EmbeddedRes
+    </EmbeddedResource>
+    <Compile Inclu
