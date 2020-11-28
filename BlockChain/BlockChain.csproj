@@ -78,4 +78,4 @@
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
-      <Depende
+      <DependentUpon>Resources.resx</Depend
