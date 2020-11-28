@@ -80,4 +80,5 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="packages.config" /
+    <None Include="packages.config" />
+    <None Include="P
