@@ -81,4 +81,5 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
-    <None Include="Properties\Settings.se
+    <None Include="Properties\Settings.settings">
+      <Gener
