@@ -83,4 +83,4 @@
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.
+      <LastGenOutput>Settings.Designer.cs</LastGenOu
