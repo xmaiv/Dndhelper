@@ -82,4 +82,5 @@
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingle
+      <Generator>SettingsSingleFileGenerator</Generator>
+   
