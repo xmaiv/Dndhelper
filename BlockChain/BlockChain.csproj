@@ -85,4 +85,4 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <Compile Include="Pr
+    <Compile Include="Properties\Settings.Designe
