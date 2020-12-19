@@ -86,4 +86,4 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <Compile Include="Properties\Settings.Designer.cs">
-      <Aut
+      <AutoGen>True</AutoGen>
