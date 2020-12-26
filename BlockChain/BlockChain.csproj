@@ -92,4 +92,5 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None 
+    <None Include="App.config" />
+  </
