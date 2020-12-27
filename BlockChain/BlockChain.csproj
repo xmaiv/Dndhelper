@@ -93,4 +93,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </
+  </ItemGroup>
+  
