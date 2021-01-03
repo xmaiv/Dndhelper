@@ -94,4 +94,4 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Mi
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets
