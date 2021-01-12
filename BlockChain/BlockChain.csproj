@@ -95,4 +95,4 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Target Name="EnsureNuGetPackageBuild
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="Pre
