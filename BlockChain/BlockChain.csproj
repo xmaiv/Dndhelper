@@ -97,4 +97,4 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
-      <ErrorText>Данный проект ссылается на пакеты NuGet,
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом комп
