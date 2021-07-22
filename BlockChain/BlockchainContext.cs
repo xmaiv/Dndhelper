@@ -1,3 +1,5 @@
 ﻿using System.Data.Entity;
 
-namespace Block
+namespace BlockChain
+{
+    public class 
