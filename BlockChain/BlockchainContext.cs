@@ -2,4 +2,6 @@
 
 namespace BlockChain
 {
-    public class BlockchainContext :
+    public class BlockchainContext : DbContext
+    {
+      
