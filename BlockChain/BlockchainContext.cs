@@ -2,4 +2,4 @@
 
 namespace BlockChain
 {
-    public class 
+    public class BlockchainContext :
