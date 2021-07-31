@@ -4,4 +4,4 @@ namespace BlockChain
 {
     public class BlockchainContext : DbContext
     {
-        public BlockchainCo
+        public BlockchainContext() : base("Blockch
