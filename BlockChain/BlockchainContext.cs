@@ -7,4 +7,5 @@ namespace BlockChain
         public BlockchainContext() : base("BlockchainDB") { }
 
 
-        public DbSet<Block> Blo
+        public DbSet<Block> Blocks { get; set; }
+  
