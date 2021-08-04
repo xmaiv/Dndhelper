@@ -8,4 +8,5 @@ namespace BlockChain
 
 
         public DbSet<Block> Blocks { get; set; }
-  
+    }
+}
