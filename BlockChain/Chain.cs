@@ -6,3 +6,5 @@ namespace BlockChain
 {
     /// <summary>
     /// Цепочка блоков.
+    /// </summary>
+    pu
