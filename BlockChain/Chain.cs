@@ -7,4 +7,5 @@ namespace BlockChain
     /// <summary>
     /// Цепочка блоков.
     /// </summary>
-    pu
+    public class Chain
+    {
