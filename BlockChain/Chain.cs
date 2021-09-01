@@ -10,4 +10,5 @@ namespace BlockChain
     public class Chain
     {
         /// <summary>
-        /// Список бло
+        /// Список блоков цепочки.
+        /// </s
