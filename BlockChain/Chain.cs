@@ -12,4 +12,4 @@ namespace BlockChain
         /// <summary>
         /// Список блоков цепочки.
         /// </summary>
-        public List<Block> Blocks { 
+        public List<Block> Blocks { get; private set; }
