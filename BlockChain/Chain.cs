@@ -16,4 +16,4 @@ namespace BlockChain
         /// <summary>
         /// Последний блок.
         /// </summary>
-        publ
+        public Block Last { ge
