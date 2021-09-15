@@ -14,4 +14,5 @@ namespace BlockChain
         /// </summary>
         public List<Block> Blocks { get; private set; }
         /// <summary>
-        /// Последний б
+        /// Последний блок.
+        /// <
