@@ -17,4 +17,6 @@ namespace BlockChain
         /// Последний блок.
         /// </summary>
         public Block Last { get; private set; }
-        //private Blockcha
+        //private BlockchainContext context;
+
+        /
