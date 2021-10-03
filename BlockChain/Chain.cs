@@ -20,4 +20,4 @@ namespace BlockChain
         //private BlockchainContext context;
 
         /// <summary>
-        /// Конструктор создан
+        /// Конструктор создания цепочки блоков.
