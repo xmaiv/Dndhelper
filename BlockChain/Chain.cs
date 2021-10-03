@@ -21,3 +21,4 @@ namespace BlockChain
 
         /// <summary>
         /// Конструктор создания цепочки блоков.
+        /// </summa
