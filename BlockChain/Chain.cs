@@ -22,4 +22,5 @@ namespace BlockChain
         /// <summary>
         /// Конструктор создания цепочки блоков.
         /// </summary>
-        pub
+        public Chain()
+       
