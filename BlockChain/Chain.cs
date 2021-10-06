@@ -23,4 +23,5 @@ namespace BlockChain
         /// Конструктор создания цепочки блоков.
         /// </summary>
         public Chain()
-       
+        {
+            Blocks = Load
