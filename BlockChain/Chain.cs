@@ -24,4 +24,5 @@ namespace BlockChain
         /// </summary>
         public Chain()
         {
-            Blocks = Load
+            Blocks = Load();
+            
