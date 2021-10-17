@@ -26,4 +26,5 @@ namespace BlockChain
         {
             Blocks = Load();
             if (Blocks.Count == 0)
-  
+            {
+        
