@@ -27,4 +27,4 @@ namespace BlockChain
             Blocks = Load();
             if (Blocks.Count == 0)
             {
-        
+                var genesisBlock = n
