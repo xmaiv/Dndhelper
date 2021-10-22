@@ -30,4 +30,4 @@ namespace BlockChain
                 var genesisBlock = new Block();
 
                 Blocks.Add(genesisBlock);
-           
+                Last = genesisBlock
