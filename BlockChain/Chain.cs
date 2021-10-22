@@ -29,4 +29,5 @@ namespace BlockChain
             {
                 var genesisBlock = new Block();
 
-                Blocks.A
+                Blocks.Add(genesisBlock);
+           
