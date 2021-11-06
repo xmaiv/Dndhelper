@@ -33,4 +33,6 @@ namespace BlockChain
                 Last = genesisBlock;
 
                 Save(Last);
-            
+            }
+            else
+   
