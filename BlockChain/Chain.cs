@@ -32,4 +32,5 @@ namespace BlockChain
                 Blocks.Add(genesisBlock);
                 Last = genesisBlock;
 
-               
+                Save(Last);
+            
