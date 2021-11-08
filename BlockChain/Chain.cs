@@ -38,4 +38,4 @@ namespace BlockChain
             {
                 if (Check())
                 {
-         
+                    Last = Blocks
