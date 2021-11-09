@@ -40,4 +40,6 @@ namespace BlockChain
                 {
                     Last = Blocks.Last();
                 }
-         
+                else
+                {
+    
