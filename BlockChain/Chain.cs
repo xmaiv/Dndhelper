@@ -38,4 +38,5 @@ namespace BlockChain
             {
                 if (Check())
                 {
-                    Last = Blocks
+                    Last = Blocks.Last();
+             
