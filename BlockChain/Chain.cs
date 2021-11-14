@@ -42,4 +42,4 @@ namespace BlockChain
                 }
                 else
                 {
-                    throw ne
+                    throw new Exception("Ошибка полу
