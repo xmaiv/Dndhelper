@@ -42,4 +42,4 @@ namespace BlockChain
                 }
                 else
                 {
-                    throw new Exception("Ошибка получения блоков из базы данных. Цепочка не п
+                    throw new Exception("Ошибка получения блоков из базы данных. Цепочка не прошла проверку на це
