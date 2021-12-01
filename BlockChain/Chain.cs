@@ -49,4 +49,5 @@ namespace BlockChain
 
         /// <summary>
         /// Добавление нового блока.
-        /// <
+        /// </summary>
+        /// 
