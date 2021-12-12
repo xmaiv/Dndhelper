@@ -51,4 +51,4 @@ namespace BlockChain
         /// Добавление нового блока.
         /// </summary>
         /// <param name="data">Данные блока.</param>
-        /// <param name="user
+        /// <param name="user">Имя пользователя.</p
