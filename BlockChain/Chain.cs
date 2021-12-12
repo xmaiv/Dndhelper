@@ -51,4 +51,5 @@ namespace BlockChain
         /// Добавление нового блока.
         /// </summary>
         /// <param name="data">Данные блока.</param>
-        /// <param name="user">Имя пользователя.</p
+        /// <param name="user">Имя пользователя.</param>
+        public void Ad
