@@ -50,4 +50,5 @@ namespace BlockChain
         /// <summary>
         /// Добавление нового блока.
         /// </summary>
-        /// <param name="data">Данные бл
+        /// <param name="data">Данные блока.</param>
+      
