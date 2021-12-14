@@ -52,4 +52,6 @@ namespace BlockChain
         /// </summary>
         /// <param name="data">Данные блока.</param>
         /// <param name="user">Имя пользователя.</param>
-        public void Add(string data, stri
+        public void Add(string data, string user)
+        {
+  
