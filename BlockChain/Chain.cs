@@ -54,4 +54,4 @@ namespace BlockChain
         /// <param name="user">Имя пользователя.</param>
         public void Add(string data, string user)
         {
-  
+            var block
