@@ -55,4 +55,5 @@ namespace BlockChain
         public void Add(string data, string user)
         {
             var block = new Block(data, user, Last);
-            Blo
+            Blocks.Add(block);
+          
