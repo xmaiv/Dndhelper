@@ -56,4 +56,6 @@ namespace BlockChain
         {
             var block = new Block(data, user, Last);
             Blocks.Add(block);
-          
+            Last = block;
+
+ 
