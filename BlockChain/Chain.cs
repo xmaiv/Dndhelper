@@ -58,4 +58,4 @@ namespace BlockChain
             Blocks.Add(block);
             Last = block;
 
- 
+            Save(bloc
