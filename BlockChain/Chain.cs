@@ -62,4 +62,4 @@ namespace BlockChain
         }
 
         /// <summary>
-      
+        /// Метод проверки кор
