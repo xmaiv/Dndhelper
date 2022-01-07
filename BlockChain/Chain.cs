@@ -64,4 +64,4 @@ namespace BlockChain
         /// <summary>
         /// Метод проверки корректности цепочки.
         /// </summary>
-        /// <returns>Р
+        /// <returns>Результат проверки.</ret
