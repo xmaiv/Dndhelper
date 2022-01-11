@@ -67,4 +67,4 @@ namespace BlockChain
         /// <returns>Результат проверки.</returns>
         public bool Check()
         {
- 
+            var gen
