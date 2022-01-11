@@ -65,4 +65,6 @@ namespace BlockChain
         /// Метод проверки корректности цепочки.
         /// </summary>
         /// <returns>Результат проверки.</returns>
-        public bool Ch
+        public bool Check()
+        {
+ 
