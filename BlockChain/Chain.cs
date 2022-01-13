@@ -67,4 +67,5 @@ namespace BlockChain
         /// <returns>Результат проверки.</returns>
         public bool Check()
         {
-            var genesisBlock = new Block
+            var genesisBlock = new Block();
+            var p
