@@ -68,4 +68,4 @@ namespace BlockChain
         public bool Check()
         {
             var genesisBlock = new Block();
-            var p
+            var previousHash = genesisBlock.H
