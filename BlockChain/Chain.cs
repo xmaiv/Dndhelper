@@ -70,4 +70,4 @@ namespace BlockChain
             var genesisBlock = new Block();
             var previousHash = genesisBlock.Hash;
 
-            f
+            foreach (var bloc
