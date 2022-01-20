@@ -71,4 +71,5 @@ namespace BlockChain
             var previousHash = genesisBlock.Hash;
 
             foreach (var block in Blocks.Skip(1))
-   
+            {
+          
