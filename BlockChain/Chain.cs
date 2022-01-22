@@ -72,4 +72,4 @@ namespace BlockChain
 
             foreach (var block in Blocks.Skip(1))
             {
-          
+                var hash = blo
