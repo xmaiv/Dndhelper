@@ -75,4 +75,6 @@ namespace BlockChain
                 var hash = block.PreviousHash;
 
                 if (hash != previousHash)
-              
+                    return false;
+
+   
