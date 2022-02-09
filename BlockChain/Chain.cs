@@ -77,4 +77,4 @@ namespace BlockChain
                 if (hash != previousHash)
                     return false;
 
-   
+                previousHa
