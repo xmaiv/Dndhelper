@@ -80,4 +80,5 @@ namespace BlockChain
                 previousHash = block.Hash;
             }
 
-            retur
+            return true;
+        }
