@@ -86,4 +86,4 @@ namespace BlockChain
         /// <summary>
         /// Сохранение блоков в БД.
         /// </summary>
-        /// <param name="block">Блок, к
+        /// <param name="block">Блок, который нужно сохрани
