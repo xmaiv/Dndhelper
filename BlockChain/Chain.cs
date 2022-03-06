@@ -87,4 +87,4 @@ namespace BlockChain
         /// Сохранение блоков в БД.
         /// </summary>
         /// <param name="block">Блок, который нужно сохранить.</param>
-        private void S
+        private void Save(Block block)
