@@ -88,3 +88,5 @@ namespace BlockChain
         /// </summary>
         /// <param name="block">Блок, который нужно сохранить.</param>
         private void Save(Block block)
+        {
+     
