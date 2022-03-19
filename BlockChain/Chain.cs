@@ -91,4 +91,5 @@ namespace BlockChain
         {
             using (var db = new BlockchainContext())
             {
-                db.Bl
+                db.Blocks.Add(block);
+         
