@@ -89,4 +89,5 @@ namespace BlockChain
         /// <param name="block">Блок, который нужно сохранить.</param>
         private void Save(Block block)
         {
-            using (var db = new BlockchainCon
+            using (var db = new BlockchainContext())
+            
