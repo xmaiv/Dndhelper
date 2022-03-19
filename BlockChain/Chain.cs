@@ -90,4 +90,5 @@ namespace BlockChain
         private void Save(Block block)
         {
             using (var db = new BlockchainContext())
-            
+            {
+                db.Bl
