@@ -92,4 +92,4 @@ namespace BlockChain
             using (var db = new BlockchainContext())
             {
                 db.Blocks.Add(block);
-         
+                db.SaveCh
