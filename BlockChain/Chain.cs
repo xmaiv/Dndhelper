@@ -97,4 +97,5 @@ namespace BlockChain
         }
 
         /// <summary>
-        /// Загрузк
+        /// Загрузка блоков из БД.
+        ///
