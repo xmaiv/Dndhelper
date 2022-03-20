@@ -94,3 +94,6 @@ namespace BlockChain
                 db.Blocks.Add(block);
                 db.SaveChanges();
             }
+        }
+
+        /// <s
