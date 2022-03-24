@@ -98,4 +98,5 @@ namespace BlockChain
 
         /// <summary>
         /// Загрузка блоков из БД.
-        ///
+        /// </summary>
+        /// <returns>
