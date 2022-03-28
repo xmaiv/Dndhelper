@@ -100,4 +100,6 @@ namespace BlockChain
         /// Загрузка блоков из БД.
         /// </summary>
         /// <returns>Список блоков данных.</returns>
-        private List<Block> Loa
+        private List<Block> Load()
+        {
+ 
