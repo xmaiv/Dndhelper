@@ -104,4 +104,4 @@ namespace BlockChain
         {
             List<Block> result;
 
-  
+            using (var db = ne
