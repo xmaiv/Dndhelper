@@ -102,4 +102,6 @@ namespace BlockChain
         /// <returns>Список блоков данных.</returns>
         private List<Block> Load()
         {
-            List<B
+            List<Block> result;
+
+  
