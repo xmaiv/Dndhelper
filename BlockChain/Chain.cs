@@ -104,4 +104,5 @@ namespace BlockChain
         {
             List<Block> result;
 
-            using (var db = ne
+            using (var db = new BlockchainContext())
+ 
