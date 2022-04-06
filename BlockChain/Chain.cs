@@ -106,4 +106,4 @@ namespace BlockChain
 
             using (var db = new BlockchainContext())
             {
-                var count = db.Blocks.OrderByDe
+                var count = db.Blocks.OrderByDescending(b => b.Id).Coun
