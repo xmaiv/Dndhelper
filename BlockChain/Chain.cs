@@ -108,4 +108,4 @@ namespace BlockChain
             {
                 var count = db.Blocks.OrderByDescending(b => b.Id).Count();
                 result = new List<Block>(count * 2);
-         
+                result.AddRang
