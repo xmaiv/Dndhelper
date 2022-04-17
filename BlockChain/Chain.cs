@@ -111,4 +111,5 @@ namespace BlockChain
                 result.AddRange(db.Blocks);
             }
 
-           
+            return result;
+       
