@@ -112,4 +112,6 @@ namespace BlockChain
             }
 
             return result;
-       
+        }
+
+        privat
