@@ -114,4 +114,5 @@ namespace BlockChain
             return result;
         }
 
-        privat
+        private void Sync()
+        {
