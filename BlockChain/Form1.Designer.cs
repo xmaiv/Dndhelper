@@ -66,3 +66,23 @@
             this.dataLabel.Text = "Данные:";
             // 
             // blocksListBox
+            // 
+            this.blocksListBox.FormattingEnabled = true;
+            this.blocksListBox.ItemHeight = 16;
+            this.blocksListBox.Location = new System.Drawing.Point(28, 71);
+            this.blocksListBox.Name = "blocksListBox";
+            this.blocksListBox.Size = new System.Drawing.Size(502, 260);
+            this.blocksListBox.TabIndex = 3;
+            // 
+            // userTextBox
+            // 
+            this.userTextBox.Location = new System.Drawing.Point(380, 23);
+            this.userTextBox.Name = "userTextBox";
+            this.userTextBox.Size = new System.Drawing.Size(150, 22);
+            this.userTextBox.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(269, 23);
+            this.label1.Name = "label1";
