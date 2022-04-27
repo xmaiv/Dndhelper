@@ -86,3 +86,32 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(269, 23);
             this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(65, 17);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Данные:";
+            // 
+            // userLabel
+            // 
+            this.userLabel.AutoSize = true;
+            this.userLabel.Location = new System.Drawing.Point(269, 26);
+            this.userLabel.Name = "userLabel";
+            this.userLabel.Size = new System.Drawing.Size(105, 17);
+            this.userLabel.TabIndex = 2;
+            this.userLabel.Text = "Пользователь:";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(561, 409);
+            this.Controls.Add(this.blocksListBox);
+            this.Controls.Add(this.userLabel);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.userTextBox);
+            this.Controls.Add(this.dataLabel);
+            this.Controls.Add(this.dataTextBox);
+            this.Controls.Add(this.AddButton);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Blockchain";
