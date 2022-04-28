@@ -115,3 +115,20 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Blockchain";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button AddButton;
+        private System.Windows.Forms.TextBox dataTextBox;
+        private System.Windows.Forms.Label dataLabel;
+        private System.Windows.Forms.ListBox blocksListBox;
+        private System.Windows.Forms.TextBox userTextBox;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label userLabel;
+    }
+}
