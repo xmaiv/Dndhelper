@@ -4,4 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespa
+namespace BlockChain
+{
+    static c
