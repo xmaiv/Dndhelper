@@ -6,4 +6,6 @@ using System.Windows.Forms;
 
 namespace BlockChain
 {
-    static c
+    static class Program
+    {
+  
