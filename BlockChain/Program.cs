@@ -8,4 +8,5 @@ namespace BlockChain
 {
     static class Program
     {
-        /// <summary
+        /// <summary>
+        /// Главная точка вх
