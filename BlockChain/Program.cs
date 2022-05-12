@@ -9,4 +9,5 @@ namespace BlockChain
     static class Program
     {
         /// <summary>
-        /// Главная точка вх
+        /// Главная точка входа для приложения.
+        /
