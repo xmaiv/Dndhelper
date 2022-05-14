@@ -11,4 +11,5 @@ namespace BlockChain
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
-     
+        [STAThread]
+        static
