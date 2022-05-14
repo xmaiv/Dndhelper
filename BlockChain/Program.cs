@@ -12,4 +12,5 @@ namespace BlockChain
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
-        static
+        static void Main()
+      
