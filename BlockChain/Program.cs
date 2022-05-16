@@ -14,4 +14,5 @@ namespace BlockChain
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualSt
+            Application.EnableVisualStyles();
+           
