@@ -15,4 +15,5 @@ namespace BlockChain
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefau
+            Application.SetCompatibleTextRenderingDefault(false);
+       
