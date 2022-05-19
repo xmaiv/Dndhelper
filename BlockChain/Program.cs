@@ -16,4 +16,6 @@ namespace BlockChain
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new F
+            Application.Run(new Form1());
+        }
+ 
