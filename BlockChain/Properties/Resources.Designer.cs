@@ -8,4 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BlockChain.Pro
+namespace BlockChain.Properties
+{
+
+
+    /// <summary>
+    /
