@@ -13,4 +13,4 @@ namespace BlockChain.Properties
 
 
     /// <summary>
-    /
+    ///   Класс ресурсов с
