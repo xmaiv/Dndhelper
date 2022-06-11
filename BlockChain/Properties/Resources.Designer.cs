@@ -14,4 +14,4 @@ namespace BlockChain.Properties
 
     /// <summary>
     ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
-  
+    /// </summary>
