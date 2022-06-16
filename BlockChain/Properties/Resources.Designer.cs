@@ -15,4 +15,5 @@ namespace BlockChain.Properties
     /// <summary>
     ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
     /// </summary>
-    // Этот класс был автоматически создан при помощи StronglyTypedResourceBui
+    // Этот класс был автоматически создан при помощи StronglyTypedResourceBuilder
+    // класс с помощь
