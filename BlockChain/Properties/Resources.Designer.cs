@@ -17,4 +17,4 @@ namespace BlockChain.Properties
     /// </summary>
     // Этот класс был автоматически создан при помощи StronglyTypedResourceBuilder
     // класс с помощью таких средств, как ResGen или Visual Studio.
-    // Для добавления или удаления чле
+    // Для добавления или удаления члена измените файл .ResX,
