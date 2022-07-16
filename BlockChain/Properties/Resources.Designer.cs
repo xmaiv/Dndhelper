@@ -25,4 +25,4 @@ namespace BlockChain.Properties
     internal class Resources
     {
 
-     
+        private static gl
