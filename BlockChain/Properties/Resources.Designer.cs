@@ -25,4 +25,6 @@ namespace BlockChain.Properties
     internal class Resources
     {
 
-        private static global::System.Resources.ResourceManager resource
+        private static global::System.Resources.ResourceManager resourceMan;
+
+        private stati
