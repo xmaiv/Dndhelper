@@ -27,4 +27,4 @@ namespace BlockChain.Properties
 
         private static global::System.Resources.ResourceManager resourceMan;
 
-        private stati
+        private static global::System.Glo
