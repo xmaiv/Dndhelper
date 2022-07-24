@@ -29,4 +29,4 @@ namespace BlockChain.Properties
 
         private static global::System.Globalization.CultureInfo resourceCulture;
 
-        [global::System.
+        [global::System.Diagnostics.CodeAnal
