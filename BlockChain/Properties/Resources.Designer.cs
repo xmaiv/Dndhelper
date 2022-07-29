@@ -29,4 +29,4 @@ namespace BlockChain.Properties
 
         private static global::System.Globalization.CultureInfo resourceCulture;
 
-        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttr
+        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Perform
