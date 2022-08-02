@@ -35,4 +35,4 @@ namespace BlockChain.Properties
         }
 
         /// <summary>
-      
+        ///   Возврат кэшированно
