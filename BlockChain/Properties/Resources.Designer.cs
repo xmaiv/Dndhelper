@@ -35,4 +35,5 @@ namespace BlockChain.Properties
         }
 
         /// <summary>
-        ///   Возврат кэшированного экземпляра ResourceManager, использ
+        ///   Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+ 
