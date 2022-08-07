@@ -37,4 +37,4 @@ namespace BlockChain.Properties
         /// <summary>
         ///   Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
         /// </summary>
-        [global::System.ComponentMod
+        [global::System.ComponentModel.EditorBrowsableAttrib
