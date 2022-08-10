@@ -38,4 +38,4 @@ namespace BlockChain.Properties
         ///   Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::Syste
+        internal static global::System.Resources.Resource
