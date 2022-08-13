@@ -40,4 +40,6 @@ namespace BlockChain.Properties
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
         internal static global::System.Resources.ResourceManager ResourceManager
         {
-            g
+            get
+            {
+             
