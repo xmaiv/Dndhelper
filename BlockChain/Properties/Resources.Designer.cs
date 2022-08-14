@@ -42,4 +42,4 @@ namespace BlockChain.Properties
         {
             get
             {
-             
+                if ((resourceMan == nul
