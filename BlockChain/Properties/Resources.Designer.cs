@@ -44,4 +44,4 @@ namespace BlockChain.Properties
             {
                 if ((resourceMan == null))
                 {
-                
+                    global::System.Re
