@@ -44,4 +44,4 @@ namespace BlockChain.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceM
+                    global::System.Resources.ResourceManager temp = new gl
