@@ -44,4 +44,4 @@ namespace BlockChain.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BlockC
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BlockChain.Properties.Resourc
