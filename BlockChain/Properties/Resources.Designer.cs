@@ -45,4 +45,4 @@ namespace BlockChain.Properties
                 if ((resourceMan == null))
                 {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BlockChain.Properties.Resources", typeof(Resources).Assembly);
-      
+                    resour
