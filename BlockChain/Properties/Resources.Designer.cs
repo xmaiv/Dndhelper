@@ -47,4 +47,5 @@ namespace BlockChain.Properties
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BlockChain.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
-                re
+                return resourceMan;
+     
