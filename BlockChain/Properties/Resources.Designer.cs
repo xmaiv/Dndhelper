@@ -51,4 +51,4 @@ namespace BlockChain.Properties
             }
         }
 
-  
+        /// <summary
