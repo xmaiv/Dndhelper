@@ -48,4 +48,7 @@ namespace BlockChain.Properties
                     resourceMan = temp;
                 }
                 return resourceMan;
-     
+            }
+        }
+
+  
