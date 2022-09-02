@@ -52,4 +52,4 @@ namespace BlockChain.Properties
         }
 
         /// <summary>
-        ///   Переопреде
+        ///   Переопределяет свойство Cur
