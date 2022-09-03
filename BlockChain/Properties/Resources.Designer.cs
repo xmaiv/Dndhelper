@@ -52,4 +52,5 @@ namespace BlockChain.Properties
         }
 
         /// <summary>
-        ///   Переопределяет свойство CurrentUICulture текуще
+        ///   Переопределяет свойство CurrentUICulture текущего потока для всех
+  
