@@ -52,4 +52,4 @@ namespace BlockChain.Properties
         }
 
         /// <summary>
-        ///   Переопределяет свойство Cur
+        ///   Переопределяет свойство CurrentUICulture текуще
