@@ -53,4 +53,4 @@ namespace BlockChain.Properties
 
         /// <summary>
         ///   Переопределяет свойство CurrentUICulture текущего потока для всех
-        ///   подстан
+        ///   подстановки ресурсов с помощью 
