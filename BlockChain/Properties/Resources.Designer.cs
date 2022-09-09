@@ -54,4 +54,5 @@ namespace BlockChain.Properties
         /// <summary>
         ///   Переопределяет свойство CurrentUICulture текущего потока для всех
         ///   подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
-        /// </summary
+        /// </summary>
+        [globa
