@@ -56,4 +56,4 @@ namespace BlockChain.Properties
         ///   подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalizatio
+        internal static global::System.Globalization.CultureInfo Culture
