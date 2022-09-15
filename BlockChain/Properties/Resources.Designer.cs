@@ -60,4 +60,5 @@ namespace BlockChain.Properties
         {
             get
             {
-                r
+                return resourceCulture;
+    
