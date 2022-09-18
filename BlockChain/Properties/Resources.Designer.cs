@@ -63,4 +63,5 @@ namespace BlockChain.Properties
                 return resourceCulture;
             }
             set
- 
+            {
+               
