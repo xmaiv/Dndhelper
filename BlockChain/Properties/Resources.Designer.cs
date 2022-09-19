@@ -65,4 +65,6 @@ namespace BlockChain.Properties
             set
             {
                 resourceCulture = value;
- 
+            }
+        }
+    
