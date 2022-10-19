@@ -5,4 +5,4 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChain", "BlockChain\BlockChain.csproj", "{3F0A1591-152C-4FFE-9E36-0A1E0457E650}"
 EndProject
-Proje
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC
