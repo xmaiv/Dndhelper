@@ -8,4 +8,4 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainTests", "BlockChainTests\BlockChainTests.csproj", "{D4581ECF-4818-4956-8BDD-9C3BF8733716}"
 EndProject
 Global
-	Glob
+	GlobalSection(SolutionConfig
