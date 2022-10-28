@@ -9,4 +9,5 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChainTests", "BlockCha
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|A
+		Debug|Any CPU = Debug|Any CPU
+		Release|
