@@ -12,4 +12,5 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) 
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0A15
