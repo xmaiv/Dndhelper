@@ -15,4 +15,4 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3F0A1591-152C-4FFE-9E36-0A1E0457E650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3F0A1591-152C-4FFE-9E36-0A1E0457E650}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F0A1591-152C-4FFE-9E36-0A1E0457E650}.Release
+		{3F0A1591-152C-4FFE-9E36-0A1E0457E650}.Release|Any CPU.ActiveCfg = Rele
