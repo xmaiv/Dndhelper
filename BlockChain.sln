@@ -23,4 +23,4 @@ Global
 		{D4581ECF-4818-4956-8BDD-9C3BF8733716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		Hi
+		HideSolutionNode = FALS
