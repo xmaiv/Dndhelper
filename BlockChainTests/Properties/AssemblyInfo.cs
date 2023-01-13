@@ -6,3 +6,4 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // общие сведения об этой сборке.
 [assembly: AssemblyTitle("BlockChainTests")]
+[assembly: AssemblyDe
