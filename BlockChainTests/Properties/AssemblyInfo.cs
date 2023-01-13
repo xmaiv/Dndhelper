@@ -7,4 +7,4 @@ using System.Runtime.InteropServices;
 // общие сведения об этой сборке.
 [assembly: AssemblyTitle("BlockChainTests")]
 [assembly: AssemblyDescription("")]
-[a
+[assembly: AssemblyCon
