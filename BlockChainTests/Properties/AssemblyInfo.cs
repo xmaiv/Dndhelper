@@ -8,4 +8,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BlockChainTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompan
+[assembly: AssemblyCompany("")]
+[assembly: Assembl
