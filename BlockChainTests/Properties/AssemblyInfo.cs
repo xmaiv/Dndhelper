@@ -9,4 +9,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BlockChainTe
+[assembly: AssemblyProduct("BlockChainTests")]
+[assemb
