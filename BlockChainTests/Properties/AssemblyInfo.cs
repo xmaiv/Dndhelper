@@ -10,4 +10,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BlockChainTests")]
-[assembly: AssemblyCopyri
+[assembly: AssemblyCopyright("Copyright ©  2020
