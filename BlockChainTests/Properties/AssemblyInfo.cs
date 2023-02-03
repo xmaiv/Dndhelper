@@ -10,4 +10,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BlockChainTests")]
-[assembly: AssemblyCopyright("Copyright ©  2020
+[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: Assembl
