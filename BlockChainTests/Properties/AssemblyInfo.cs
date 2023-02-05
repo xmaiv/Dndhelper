@@ -14,4 +14,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Установка параметра Com
+// Установка параметра ComVisible в значение false де
