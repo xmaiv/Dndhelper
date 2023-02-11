@@ -15,4 +15,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCulture("")]
 
 // Установка параметра ComVisible в значение false делает типы в этой сборке невидимыми 
-// для компонентов мо
+// для компонентов модели COM.  Если тип 
