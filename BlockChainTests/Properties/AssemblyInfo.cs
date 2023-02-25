@@ -17,4 +17,6 @@ using System.Runtime.InteropServices;
 // Установка параметра ComVisible в значение false делает типы в этой сборке невидимыми 
 // для компонентов модели COM.  Если тип в этой сборке необходимо сделать доступным 
 // модели COM, задайте для атрибута ComVisible этого типа значение true.
-[assembly: Co
+[assembly: ComVisible(false)]
+
+// Следую
