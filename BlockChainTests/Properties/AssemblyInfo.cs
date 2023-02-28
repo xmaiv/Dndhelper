@@ -19,4 +19,4 @@ using System.Runtime.InteropServices;
 // модели COM, задайте для атрибута ComVisible этого типа значение true.
 [assembly: ComVisible(false)]
 
-// Следую
+// Следующий GUID служит для идентифик
